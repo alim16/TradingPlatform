@@ -1,0 +1,2 @@
+10:05:55 DEBUG [main] - com.fdm.tp.main.Start.Hello this is a debug message 17 Hello this is a debug message
+10:05:55  INFO [main] - com.fdm.tp.main.Start.Hello this is an info message 18 Hello this is an info message
